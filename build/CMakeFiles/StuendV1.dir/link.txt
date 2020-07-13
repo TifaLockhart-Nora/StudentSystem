@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/StuendV1.dir/src/interface.c.o CMakeFiles/StuendV1.dir/src/main.c.o  -o ../release/StuendV1 -rdynamic 

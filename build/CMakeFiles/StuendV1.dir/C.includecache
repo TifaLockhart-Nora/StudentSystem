@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/interface.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/lzembed/projectfile/src/interface.c
+interface.h
+/home/lzembed/projectfile/src/interface.h
+
+/home/lzembed/projectfile/src/main.c
+interface.h
+/home/lzembed/projectfile/src/interface.h
+

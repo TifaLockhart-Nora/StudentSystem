@@ -1,0 +1,3 @@
+/home/lzembed/projectfile/build/CMakeFiles/edit_cache.dir
+/home/lzembed/projectfile/build/CMakeFiles/rebuild_cache.dir
+/home/lzembed/projectfile/build/CMakeFiles/StuendV1.dir
